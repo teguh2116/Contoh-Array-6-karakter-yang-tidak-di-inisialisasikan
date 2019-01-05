@@ -1,0 +1,1 @@
+# Contoh-Array-6-karakter-yang-tidak-di-inisialisasikan
